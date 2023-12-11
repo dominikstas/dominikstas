@@ -9,7 +9,7 @@ I'm Dominik
 ## About Me
 
 I'm a tech enthusiast from Poland. Whether it's exploring the depths of Python, managing data or trying not to cry with java script, I'm always up for a coding challenge.
-https://gitlab.com/Dminikx
+
 
 ## Contact Me
 
